@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Ion by TEMPLATED</title>
+		<title>Ion by RAYHAN</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -18,7 +18,7 @@
 
 		<?php wp_head();?>
 	</head>
-	<body id="top">
+	<body <?php body_class();?>>
 
 		<!-- Header -->
 			
