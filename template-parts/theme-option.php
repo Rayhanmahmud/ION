@@ -34,4 +34,6 @@ require_once get_template_directory().'/template-parts/elements/no-sidebar.php';
 
 
 
-?>
+
+
+
